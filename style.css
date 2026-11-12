@@ -1,0 +1,25 @@
+p {
+     Color: red;
+      font-family: Verdana; 
+    } 
+
+    .importante {
+     background-color: green; 
+     font-weight: 600;
+     } 
+
+      #especial { 
+    border: 6px solid blue;
+     padding: 20px;
+     }
+
+     *{ margin:20px; padding:10px; } 
+
+h1, h2 { 
+    color: yellow; 
+    text-align: center; 
+}
+
+ p.importante {
+     color: #d84c8d; 
+    }
